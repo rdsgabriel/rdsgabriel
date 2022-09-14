@@ -1,8 +1,8 @@
 ### Opa! 👋
 #### Me chamo Gabriel Rodrigues, 
 Sou um apaixonado por tecnologia desde pequeno.
-Atualmente **aprofundando** meus conhecimentos em React, Typescript e Nodejs.
 
+Atualmente **aprofundando** meus conhecimentos em React, Typescript e Nodejs.
 
 #### Clica aqui embaixo e dá uma olhada no meu portfólio :)
 ![my portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
