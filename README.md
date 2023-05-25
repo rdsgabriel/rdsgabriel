@@ -2,7 +2,7 @@
 #### Me chamo Gabriel Rodrigues, 
 Sou um apaixonado por tecnologia desde pequeno.
 
-Atualmente **aprofundando** meus conhecimentos em React, Typescript e Nodejs.
+Atualmente **aprofundando** meus conhecimentos em React/RN, Typescript e Nodejs.
 
 Jr
 
