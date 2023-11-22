@@ -4,7 +4,6 @@ Sou um apaixonado por tecnologia desde pequeno.
 
 Atualmente **aprofundando** meus conhecimentos em React/RN, Python, Typescript e Nodejs.
 
-Jr
 
 #### Clica aqui embaixo e dá uma olhada no meu portfólio :)
 
